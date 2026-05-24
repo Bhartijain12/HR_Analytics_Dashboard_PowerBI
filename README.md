@@ -46,4 +46,4 @@ This dashboard helps HR leaders:
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/bharati-jain/HR_Analytics_Dashboard.git)
+- [GitHub Repository](https://github.com/Bhartijain12/HR_Analytics_Dashboard_PowerBI)
